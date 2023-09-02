@@ -15,12 +15,5 @@
 	},
 	"devDependencies": {
 		"jshint": "^2.13.6"
-	},
-	"keywords": [
-		"Math Operations",
-		"add",
-		"subtract",
-		"divide",
-		"multiply"
-	]
+	}
 }
